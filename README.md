@@ -6,7 +6,7 @@ An intelligent assistant built with the Google Agent Development Kit (ADK) desig
 
 ## 🖼️ Project Showcase
 
-http://googleusercontent.com/image_generation_content/2
+[Overview](https://github.com/evilVirus7/Google-AI-Agent-project/blob/master/Gemini_Generated_Image_edkjwcedkjwcedkj.png)
 
 
 
