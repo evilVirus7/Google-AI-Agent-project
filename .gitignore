@@ -1,0 +1,85 @@
+# ------------------------------------
+# 1. Environment and Dependency Files
+# ------------------------------------
+
+# Virtual Environment Directories (your custom 'google/' is included here)
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+google/  # <--- YOUR CUSTOM ENVIRONMENT NAME ADDED HERE
+*.virtualenv
+.python-version
+
+# Environment Variables and Secrets (Crucial for security)
+.env
+.envrc
+*.key
+*.pem
+GOOGLE_API_KEY
+*.log
+pip-log.txt
+pip-delete-this-file.txt
+
+# Package build files and logs
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# ------------------------------------
+# 2. Python Specific Files
+# ------------------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+*.manifest
+*.spec
+
+# ------------------------------------
+# 3. Jupyter Notebook and IDE Files
+# ------------------------------------
+
+# Jupyter Notebook Checkpoints (avoid cluttering commits)
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+# Add exceptions for specific files you DO want to commit, if any
+!/.vscode/settings.json
+!/.vscode/tasks.json
+!/.vscode/launch.json
+!/.vscode/extensions.json
+
+# PyCharm / JetBrains IDEs
+.idea/
+
+# System Files
+Thumbs.db
