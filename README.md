@@ -6,11 +6,9 @@ An intelligent assistant built with the Google Agent Development Kit (ADK) desig
 
 ## 🖼️ Project Showcase
 
-![AI Financial Advisor Dashboard Thumbnail](assets/project_thumbnail.png)
+![AI Financial Advisor Dashboard Thumbnail](https://github.com/evilVirus7/Google-AI-Agent-project/blob/master/Gemini_Generated_Image_edkjwcedkjwcedkj.png)
 
 
-
-*Replace `assets/project_thumbnail.png` with the actual path and filename of your image once you upload it to your GitHub repository.*
 
 ---
 
